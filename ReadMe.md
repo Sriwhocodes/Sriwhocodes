@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Sri, a Developer 👋🏼:
-🛜  Currently working on a feature no one asked for (including me). <br>👨🏼‍🎓 studying media based computer science at Vellore Institute of Technology<br>👨🏼‍💻
+🛜  Currently working on a feature no one asked for (including me). <br>👨🏼‍🎓 studying media based computer science at Vellore Institute of Technology<br>
 
 
 # 💻 Tech Stack:
